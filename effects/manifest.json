@@ -1,0 +1,9 @@
+{
+    "Name": "WLED Effects",
+    "Author": "Beennnn",
+    "Version": "1.0.0",
+    "Description": "All 216 WLED animated effects as looping Stream Deck key icons — one GIF per effect, from Solid, Rainbow and Fire to the AudioReactive, 2D and Particle System effects. The animated companion to WLED Palettes & Controls.",
+    "Icon": "icon.svg",
+    "URL": "https://github.com/Beennnn/streamdeck-wled-icons",
+    "Licence": "license.txt"
+}

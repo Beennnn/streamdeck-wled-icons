@@ -1,0 +1,1946 @@
+{
+  "akemi": {
+    "name": "Akemi",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "akemi"
+    ]
+  },
+  "android": {
+    "name": "Android",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "scan"
+    ]
+  },
+  "aurora": {
+    "name": "Aurora",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "aurora"
+    ]
+  },
+  "black-hole": {
+    "name": "Black Hole",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "blackhole"
+    ]
+  },
+  "blends": {
+    "name": "Blends",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "breathe"
+    ]
+  },
+  "blink-rainbow": {
+    "name": "Blink Rainbow",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rainbow"
+    ]
+  },
+  "blink": {
+    "name": "Blink",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "strobe"
+    ]
+  },
+  "blobs": {
+    "name": "Blobs",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "plasma"
+    ]
+  },
+  "blurz": {
+    "name": "Blurz",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "bouncing-balls": {
+    "name": "Bouncing Balls",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "bpm": {
+    "name": "Bpm",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "beat"
+    ]
+  },
+  "breathe": {
+    "name": "Breathe",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "breathe"
+    ]
+  },
+  "candle-multi": {
+    "name": "Candle Multi",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "candle"
+    ]
+  },
+  "candle": {
+    "name": "Candle",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "candle"
+    ]
+  },
+  "chase-2": {
+    "name": "Chase 2",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "chase-3": {
+    "name": "Chase 3",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "chase-flash-rnd": {
+    "name": "Chase Flash Rnd",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "chase-flash": {
+    "name": "Chase Flash",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "chase-rainbow": {
+    "name": "Chase Rainbow",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rainbow"
+    ]
+  },
+  "chase-random": {
+    "name": "Chase Random",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "chase": {
+    "name": "Chase",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "chunchun": {
+    "name": "Chunchun",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "color-clouds": {
+    "name": "Color Clouds",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "plasma"
+    ]
+  },
+  "colored-bursts": {
+    "name": "Colored Bursts",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "impact"
+    ]
+  },
+  "colorful": {
+    "name": "Colorful",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "colorful"
+    ]
+  },
+  "colorloop": {
+    "name": "Colorloop",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "colorloop"
+    ]
+  },
+  "colortwinkles": {
+    "name": "Colortwinkles",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "twinkle"
+    ]
+  },
+  "colorwaves": {
+    "name": "Colorwaves",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "colorful"
+    ]
+  },
+  "copy-segment": {
+    "name": "Copy Segment",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "crazy-bees": {
+    "name": "Crazy Bees",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bees"
+    ]
+  },
+  "dancing-shadows": {
+    "name": "Dancing Shadows",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "dancing"
+    ]
+  },
+  "dissolve-rnd": {
+    "name": "Dissolve Rnd",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "dissolve": {
+    "name": "Dissolve",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "distortion-waves": {
+    "name": "Distortion Waves",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "dj-light": {
+    "name": "DJ Light",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "dj"
+    ]
+  },
+  "dna-spiral": {
+    "name": "DNA Spiral",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "galaxy"
+    ]
+  },
+  "dna": {
+    "name": "DNA",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "matrix"
+    ]
+  },
+  "drift-rose": {
+    "name": "Drift Rose",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "galaxy"
+    ]
+  },
+  "drift": {
+    "name": "Drift",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "drip": {
+    "name": "Drip",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "drip"
+    ]
+  },
+  "dynamic-smooth": {
+    "name": "Dynamic Smooth",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "dynamic"
+    ]
+  },
+  "dynamic": {
+    "name": "Dynamic",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "dynamic"
+    ]
+  },
+  "fade": {
+    "name": "Fade",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fade"
+    ]
+  },
+  "fairy": {
+    "name": "Fairy",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fairy"
+    ]
+  },
+  "fairytwinkle": {
+    "name": "Fairytwinkle",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fairy"
+    ]
+  },
+  "fill-noise": {
+    "name": "Fill Noise",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "solid"
+    ]
+  },
+  "fire-2012": {
+    "name": "Fire 2012",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fire"
+    ]
+  },
+  "fire-flicker": {
+    "name": "Fire Flicker",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fire"
+    ]
+  },
+  "firenoise": {
+    "name": "Firenoise",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fire"
+    ]
+  },
+  "fireworks-1d": {
+    "name": "Fireworks 1D",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fireworks"
+    ]
+  },
+  "fireworks-starburst": {
+    "name": "Fireworks Starburst",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fireworks"
+    ]
+  },
+  "fireworks": {
+    "name": "Fireworks",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fireworks"
+    ]
+  },
+  "flow-stripe": {
+    "name": "Flow Stripe",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "stream"
+    ]
+  },
+  "flow": {
+    "name": "Flow",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "stream"
+    ]
+  },
+  "freqmap": {
+    "name": "Freqmap",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "freqmatrix": {
+    "name": "Freqmatrix",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "matrix"
+    ]
+  },
+  "freqpixels": {
+    "name": "Freqpixels",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "matrix"
+    ]
+  },
+  "freqwave": {
+    "name": "Freqwave",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "frizzles": {
+    "name": "Frizzles",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "funky-plank": {
+    "name": "Funky Plank",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "game-of-life": {
+    "name": "Game Of Life",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "matrix"
+    ]
+  },
+  "geq": {
+    "name": "GEQ",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "ghost-rider": {
+    "name": "Ghost Rider",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ghost"
+    ]
+  },
+  "glitter": {
+    "name": "Glitter",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "glitter"
+    ]
+  },
+  "gradient": {
+    "name": "Gradient",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "gradient"
+    ]
+  },
+  "gravcenter": {
+    "name": "Gravcenter",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "gravcentric": {
+    "name": "Gravcentric",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "gravfreq": {
+    "name": "Gravfreq",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "gravimeter": {
+    "name": "Gravimeter",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "halloween-eyes": {
+    "name": "Halloween Eyes",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "halloween"
+    ]
+  },
+  "heartbeat": {
+    "name": "Heartbeat",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "heartbeat"
+    ]
+  },
+  "hiphotic": {
+    "name": "Hiphotic",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "icu": {
+    "name": "ICU",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "image": {
+    "name": "Image",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "juggle": {
+    "name": "Juggle",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "juggles": {
+    "name": "Juggles",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "julia": {
+    "name": "Julia",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "lake": {
+    "name": "Lake",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "lighthouse": {
+    "name": "Lighthouse",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "lighthouse"
+    ]
+  },
+  "lightning": {
+    "name": "Lightning",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "lightning"
+    ]
+  },
+  "lissajous": {
+    "name": "Lissajous",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "lissajous"
+    ]
+  },
+  "loading": {
+    "name": "Loading",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "loading"
+    ]
+  },
+  "matripix": {
+    "name": "Matripix",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "matrix"
+    ]
+  },
+  "matrix": {
+    "name": "Matrix",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "matrix"
+    ]
+  },
+  "metaballs": {
+    "name": "Metaballs",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "meteor": {
+    "name": "Meteor",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "comet"
+    ]
+  },
+  "midnoise": {
+    "name": "Midnoise",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "multi-comet": {
+    "name": "Multi Comet",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "comet"
+    ]
+  },
+  "noise-1": {
+    "name": "Noise 1",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "noise-2": {
+    "name": "Noise 2",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "noise-3": {
+    "name": "Noise 3",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "noise-4": {
+    "name": "Noise 4",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "noise-pal": {
+    "name": "Noise Pal",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "noise2d": {
+    "name": "Noise2D",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "noisefire": {
+    "name": "Noisefire",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fire"
+    ]
+  },
+  "noisemeter": {
+    "name": "Noisemeter",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "noisemove": {
+    "name": "Noisemove",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "octopus": {
+    "name": "Octopus",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "octopus"
+    ]
+  },
+  "oscillate": {
+    "name": "Oscillate",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "pacifica": {
+    "name": "Pacifica",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "pacman": {
+    "name": "PacMan",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "pacman"
+    ]
+  },
+  "palette": {
+    "name": "Palette",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "colorloop"
+    ]
+  },
+  "percent": {
+    "name": "Percent",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "percent"
+    ]
+  },
+  "perlin-move": {
+    "name": "Perlin Move",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "phased-noise": {
+    "name": "Phased Noise",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "phased"
+    ]
+  },
+  "phased": {
+    "name": "Phased",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "phased"
+    ]
+  },
+  "pixels": {
+    "name": "Pixels",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "matrix"
+    ]
+  },
+  "pixelwave": {
+    "name": "Pixelwave",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "matrix"
+    ]
+  },
+  "plasma-ball": {
+    "name": "Plasma Ball",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "plasma": {
+    "name": "Plasma",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "plasma"
+    ]
+  },
+  "plasmoid": {
+    "name": "Plasmoid",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "plasma"
+    ]
+  },
+  "polar-lights": {
+    "name": "Polar Lights",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "aurora"
+    ]
+  },
+  "popcorn": {
+    "name": "Popcorn",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "popcorn"
+    ]
+  },
+  "pride-2015": {
+    "name": "Pride 2015",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "colorloop"
+    ]
+  },
+  "ps-1d-balance": {
+    "name": "PS 1D Balance",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "ps-attractor": {
+    "name": "PS Attractor",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "ps-ballpit": {
+    "name": "PS Ballpit",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "ps-blobs": {
+    "name": "PS Blobs",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "plasma"
+    ]
+  },
+  "ps-box": {
+    "name": "PS Box",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "ps-chase": {
+    "name": "PS Chase",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "ps-dancing-shadows": {
+    "name": "PS Dancing Shadows",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "dancing"
+    ]
+  },
+  "ps-dripdrop": {
+    "name": "PS DripDrop",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "drip"
+    ]
+  },
+  "ps-fire-1d": {
+    "name": "PS Fire 1D",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fire"
+    ]
+  },
+  "ps-fire": {
+    "name": "PS Fire",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fire"
+    ]
+  },
+  "ps-fireworks-1d": {
+    "name": "PS Fireworks 1D",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fireworks"
+    ]
+  },
+  "ps-fireworks": {
+    "name": "PS Fireworks",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fireworks"
+    ]
+  },
+  "ps-fuzzy-noise": {
+    "name": "PS Fuzzy Noise",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "ps-galaxy": {
+    "name": "PS Galaxy",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "galaxy"
+    ]
+  },
+  "ps-geq-1d": {
+    "name": "PS GEQ 1D",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "ps-geq-2d": {
+    "name": "PS GEQ 2D",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "ps-geq-nova": {
+    "name": "PS GEQ Nova",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "ps-ghost-rider": {
+    "name": "PS Ghost Rider",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ghost"
+    ]
+  },
+  "ps-hourglass": {
+    "name": "PS Hourglass",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "hourglass"
+    ]
+  },
+  "ps-impact": {
+    "name": "PS Impact",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "impact"
+    ]
+  },
+  "ps-pinball": {
+    "name": "PS Pinball",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "ps-sonic-boom": {
+    "name": "PS Sonic Boom",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "impact"
+    ]
+  },
+  "ps-sonic-stream": {
+    "name": "PS Sonic Stream",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "stream"
+    ]
+  },
+  "ps-sparkler": {
+    "name": "PS Sparkler",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "ps-spray-1d": {
+    "name": "PS Spray 1D",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "ps-spray": {
+    "name": "PS Spray",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "ps-springy": {
+    "name": "PS Springy",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "ps-starburst": {
+    "name": "PS Starburst",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "twinkle"
+    ]
+  },
+  "ps-volcano": {
+    "name": "PS Volcano",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "ps-vortex": {
+    "name": "PS Vortex",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "galaxy"
+    ]
+  },
+  "ps-waterfall": {
+    "name": "PS Waterfall",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rain"
+    ]
+  },
+  "puddlepeak": {
+    "name": "Puddlepeak",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rain"
+    ]
+  },
+  "puddles": {
+    "name": "Puddles",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rain"
+    ]
+  },
+  "pulser": {
+    "name": "Pulser",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "breathe"
+    ]
+  },
+  "railway": {
+    "name": "Railway",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "rain": {
+    "name": "Rain",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rain"
+    ]
+  },
+  "rainbow-runner": {
+    "name": "Rainbow Runner",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rainbow"
+    ]
+  },
+  "rainbow": {
+    "name": "Rainbow",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rainbow"
+    ]
+  },
+  "random-colors": {
+    "name": "Random Colors",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "dynamic"
+    ]
+  },
+  "ripple-peak": {
+    "name": "Ripple Peak",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "ripple-rainbow": {
+    "name": "Ripple Rainbow",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rainbow"
+    ]
+  },
+  "ripple": {
+    "name": "Ripple",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "ripple"
+    ]
+  },
+  "rocktaves": {
+    "name": "Rocktaves",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "rolling-balls": {
+    "name": "Rolling Balls",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "bounce"
+    ]
+  },
+  "rotozoomer": {
+    "name": "Rotozoomer",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "spin"
+    ]
+  },
+  "rsvd": {
+    "name": "RSVD",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "running-dual": {
+    "name": "Running Dual",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "running"
+    ]
+  },
+  "running": {
+    "name": "Running",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "running"
+    ]
+  },
+  "saw": {
+    "name": "Saw",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "saw"
+    ]
+  },
+  "scan-dual": {
+    "name": "Scan Dual",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "scan"
+    ]
+  },
+  "scan": {
+    "name": "Scan",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "scan"
+    ]
+  },
+  "scanner-dual": {
+    "name": "Scanner Dual",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "scan"
+    ]
+  },
+  "scanner": {
+    "name": "Scanner",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "scan"
+    ]
+  },
+  "scrolling-text": {
+    "name": "Scrolling Text",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "text"
+    ]
+  },
+  "shimmer": {
+    "name": "Shimmer",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "sindots": {
+    "name": "Sindots",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "sine": {
+    "name": "Sine",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "breathe"
+    ]
+  },
+  "sinelon-dual": {
+    "name": "Sinelon Dual",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "comet"
+    ]
+  },
+  "sinelon-rainbow": {
+    "name": "Sinelon Rainbow",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "comet"
+    ]
+  },
+  "sinelon": {
+    "name": "Sinelon",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "comet"
+    ]
+  },
+  "slow-transition": {
+    "name": "Slow Transition",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "soap": {
+    "name": "Soap",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "plasma"
+    ]
+  },
+  "solid-glitter": {
+    "name": "Solid Glitter",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "glitter"
+    ]
+  },
+  "solid-pattern-tri": {
+    "name": "Solid Pattern Tri",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "solid"
+    ]
+  },
+  "solid-pattern": {
+    "name": "Solid Pattern",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "solid"
+    ]
+  },
+  "solid": {
+    "name": "Solid",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "solid"
+    ]
+  },
+  "spaceships": {
+    "name": "Spaceships",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "spaceship"
+    ]
+  },
+  "sparkle-dark": {
+    "name": "Sparkle Dark",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "sparkle": {
+    "name": "Sparkle",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sparkle"
+    ]
+  },
+  "spots-fade": {
+    "name": "Spots Fade",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "spots"
+    ]
+  },
+  "spots": {
+    "name": "Spots",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "spots"
+    ]
+  },
+  "squared-swirl": {
+    "name": "Squared Swirl",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "galaxy"
+    ]
+  },
+  "stream-2": {
+    "name": "Stream 2",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "stream"
+    ]
+  },
+  "stream": {
+    "name": "Stream",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "stream"
+    ]
+  },
+  "strobe-mega": {
+    "name": "Strobe Mega",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "strobe"
+    ]
+  },
+  "strobe-rainbow": {
+    "name": "Strobe Rainbow",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rainbow"
+    ]
+  },
+  "strobe": {
+    "name": "Strobe",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "strobe"
+    ]
+  },
+  "sun-radiation": {
+    "name": "Sun Radiation",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sunrise"
+    ]
+  },
+  "sunrise": {
+    "name": "Sunrise",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sunrise"
+    ]
+  },
+  "sweep-random": {
+    "name": "Sweep Random",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sweep"
+    ]
+  },
+  "sweep": {
+    "name": "Sweep",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "sweep"
+    ]
+  },
+  "swirl": {
+    "name": "Swirl",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "galaxy"
+    ]
+  },
+  "tartan": {
+    "name": "Tartan",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "tetrix": {
+    "name": "Tetrix",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "tetris"
+    ]
+  },
+  "theater-rainbow": {
+    "name": "Theater Rainbow",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rainbow"
+    ]
+  },
+  "theater": {
+    "name": "Theater",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "chase"
+    ]
+  },
+  "traffic-light": {
+    "name": "Traffic Light",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "traffic"
+    ]
+  },
+  "tri-fade": {
+    "name": "Tri Fade",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "fade"
+    ]
+  },
+  "tri-wipe": {
+    "name": "Tri Wipe",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wipe"
+    ]
+  },
+  "tv-simulator": {
+    "name": "TV Simulator",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "tv"
+    ]
+  },
+  "twinkle": {
+    "name": "Twinkle",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "twinkle"
+    ]
+  },
+  "twinklecat": {
+    "name": "Twinklecat",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "twinkle"
+    ]
+  },
+  "twinklefox": {
+    "name": "Twinklefox",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "twinkle"
+    ]
+  },
+  "twinkleup": {
+    "name": "Twinkleup",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "twinkle"
+    ]
+  },
+  "two-dots": {
+    "name": "Two Dots",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "dots"
+    ]
+  },
+  "washing-machine": {
+    "name": "Washing Machine",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "spin"
+    ]
+  },
+  "waterfall": {
+    "name": "Waterfall",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "rain"
+    ]
+  },
+  "waverly": {
+    "name": "Waverly",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "wavesins": {
+    "name": "Wavesins",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "waving-cell": {
+    "name": "Waving Cell",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wave"
+    ]
+  },
+  "wipe-random": {
+    "name": "Wipe Random",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wipe"
+    ]
+  },
+  "wipe": {
+    "name": "Wipe",
+    "tags": [
+      "wled",
+      "effect",
+      "animated",
+      "wipe"
+    ]
+  }
+}

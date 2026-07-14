@@ -1,0 +1,1095 @@
+{
+  "palette-analogous": {
+    "name": "Analogous",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "analogous"
+    ]
+  },
+  "palette-april-night": {
+    "name": "April Night",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "april",
+      "night"
+    ]
+  },
+  "palette-aqua-flash": {
+    "name": "Aqua Flash",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "aqua",
+      "flash"
+    ]
+  },
+  "palette-atlantica": {
+    "name": "Atlantica",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "atlantica"
+    ]
+  },
+  "palette-aurora-2": {
+    "name": "Aurora 2",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "aurora",
+      "2"
+    ]
+  },
+  "palette-aurora": {
+    "name": "Aurora",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "aurora"
+    ]
+  },
+  "palette-autumn": {
+    "name": "Autumn",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "autumn"
+    ]
+  },
+  "palette-beach": {
+    "name": "Beach",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "beach"
+    ]
+  },
+  "palette-beech": {
+    "name": "Beech",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "beech"
+    ]
+  },
+  "palette-blink-red": {
+    "name": "Blink Red",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "blink",
+      "red"
+    ]
+  },
+  "palette-breeze": {
+    "name": "Breeze",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "breeze"
+    ]
+  },
+  "palette-c9-2": {
+    "name": "C9 2",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "c9",
+      "2"
+    ]
+  },
+  "palette-c9-new": {
+    "name": "C9 New",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "c9",
+      "new"
+    ]
+  },
+  "palette-c9": {
+    "name": "C9",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "c9"
+    ]
+  },
+  "palette-candy": {
+    "name": "Candy",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "candy"
+    ]
+  },
+  "palette-candy2": {
+    "name": "Candy2",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "candy2"
+    ]
+  },
+  "palette-cloud": {
+    "name": "Cloud",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "cloud"
+    ]
+  },
+  "palette-color-1": {
+    "name": "* Color 1",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "color",
+      "1"
+    ]
+  },
+  "palette-color-gradient": {
+    "name": "* Color Gradient",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "color"
+    ]
+  },
+  "palette-colors-1-2": {
+    "name": "* Colors 1&2",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "colors",
+      "1",
+      "2"
+    ]
+  },
+  "palette-colors-only": {
+    "name": "* Colors Only",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "colors",
+      "only"
+    ]
+  },
+  "palette-cyane": {
+    "name": "Cyane",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "cyane"
+    ]
+  },
+  "palette-default": {
+    "name": "Default",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "default"
+    ]
+  },
+  "palette-departure": {
+    "name": "Departure",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "departure"
+    ]
+  },
+  "palette-drywet": {
+    "name": "Drywet",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "drywet"
+    ]
+  },
+  "palette-fairy-reaf": {
+    "name": "Fairy Reaf",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "fairy",
+      "reaf"
+    ]
+  },
+  "palette-fire": {
+    "name": "Fire",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "fire"
+    ]
+  },
+  "palette-forest": {
+    "name": "Forest",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "forest"
+    ]
+  },
+  "palette-grintage": {
+    "name": "Grintage",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "grintage"
+    ]
+  },
+  "palette-hult-64": {
+    "name": "Hult 64",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "hult",
+      "64"
+    ]
+  },
+  "palette-hult": {
+    "name": "Hult",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "hult"
+    ]
+  },
+  "palette-icefire": {
+    "name": "Icefire",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "icefire"
+    ]
+  },
+  "palette-jul": {
+    "name": "Jul",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "jul"
+    ]
+  },
+  "palette-landscape": {
+    "name": "Landscape",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "landscape"
+    ]
+  },
+  "palette-lava": {
+    "name": "Lava",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "lava"
+    ]
+  },
+  "palette-light-pink": {
+    "name": "Light Pink",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "light",
+      "pink"
+    ]
+  },
+  "palette-lite-light": {
+    "name": "Lite Light",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "lite",
+      "light"
+    ]
+  },
+  "palette-magenta": {
+    "name": "Magenta",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "magenta"
+    ]
+  },
+  "palette-magred": {
+    "name": "Magred",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "magred"
+    ]
+  },
+  "palette-ocean": {
+    "name": "Ocean",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "ocean"
+    ]
+  },
+  "palette-orange-teal": {
+    "name": "Orange & Teal",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "orange",
+      "teal"
+    ]
+  },
+  "palette-orangery": {
+    "name": "Orangery",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "orangery"
+    ]
+  },
+  "palette-party": {
+    "name": "Party",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "party"
+    ]
+  },
+  "palette-pastel": {
+    "name": "Pastel",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "pastel"
+    ]
+  },
+  "palette-pink-candy": {
+    "name": "Pink Candy",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "pink",
+      "candy"
+    ]
+  },
+  "palette-rainbow-bands": {
+    "name": "Rainbow Bands",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "rainbow",
+      "bands"
+    ]
+  },
+  "palette-rainbow": {
+    "name": "Rainbow",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "rainbow"
+    ]
+  },
+  "palette-random-cycle": {
+    "name": "* Random Cycle",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "random",
+      "cycle"
+    ]
+  },
+  "palette-red-blue": {
+    "name": "Red & Blue",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "red",
+      "blue"
+    ]
+  },
+  "palette-red-flash": {
+    "name": "Red Flash",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "red",
+      "flash"
+    ]
+  },
+  "palette-red-reaf": {
+    "name": "Red Reaf",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "red",
+      "reaf"
+    ]
+  },
+  "palette-red-shift": {
+    "name": "Red Shift",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "red",
+      "shift"
+    ]
+  },
+  "palette-red-tide": {
+    "name": "Red Tide",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "red",
+      "tide"
+    ]
+  },
+  "palette-retro-clown": {
+    "name": "Retro Clown",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "retro",
+      "clown"
+    ]
+  },
+  "palette-rewhi": {
+    "name": "Rewhi",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "rewhi"
+    ]
+  },
+  "palette-rivendell": {
+    "name": "Rivendell",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "rivendell"
+    ]
+  },
+  "palette-sakura": {
+    "name": "Sakura",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "sakura"
+    ]
+  },
+  "palette-semi-blue": {
+    "name": "Semi Blue",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "semi",
+      "blue"
+    ]
+  },
+  "palette-sherbet": {
+    "name": "Sherbet",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "sherbet"
+    ]
+  },
+  "palette-splash": {
+    "name": "Splash",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "splash"
+    ]
+  },
+  "palette-sunset-2": {
+    "name": "Sunset 2",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "sunset",
+      "2"
+    ]
+  },
+  "palette-sunset": {
+    "name": "Sunset",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "sunset"
+    ]
+  },
+  "palette-temperature": {
+    "name": "Temperature",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "temperature"
+    ]
+  },
+  "palette-tertiary": {
+    "name": "Tertiary",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "tertiary"
+    ]
+  },
+  "palette-tiamat": {
+    "name": "Tiamat",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "tiamat"
+    ]
+  },
+  "palette-toxy-reaf": {
+    "name": "Toxy Reaf",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "toxy",
+      "reaf"
+    ]
+  },
+  "palette-traffic-light": {
+    "name": "Traffic Light",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "traffic",
+      "light"
+    ]
+  },
+  "palette-vintage": {
+    "name": "Vintage",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "vintage"
+    ]
+  },
+  "palette-yelblu-hot": {
+    "name": "Yelblu Hot",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "yelblu",
+      "hot"
+    ]
+  },
+  "palette-yelblu": {
+    "name": "Yelblu",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "yelblu"
+    ]
+  },
+  "palette-yellowout": {
+    "name": "Yellowout",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "yellowout"
+    ]
+  },
+  "palette-yelmag": {
+    "name": "Yelmag",
+    "tags": [
+      "wled",
+      "palette",
+      "colour",
+      "gradient",
+      "yelmag"
+    ]
+  },
+  "control-background-color": {
+    "name": "Background Color",
+    "tags": [
+      "wled",
+      "control",
+      "background",
+      "color"
+    ]
+  },
+  "control-custom-1": {
+    "name": "Custom 1",
+    "tags": [
+      "wled",
+      "control",
+      "custom",
+      "1"
+    ]
+  },
+  "control-custom-2": {
+    "name": "Custom 2",
+    "tags": [
+      "wled",
+      "control",
+      "custom",
+      "2"
+    ]
+  },
+  "control-custom-3": {
+    "name": "Custom 3",
+    "tags": [
+      "wled",
+      "control",
+      "custom",
+      "3"
+    ]
+  },
+  "control-custom-color": {
+    "name": "Custom Color",
+    "tags": [
+      "wled",
+      "control",
+      "custom",
+      "color"
+    ]
+  },
+  "control-effect-color": {
+    "name": "Effect Color",
+    "tags": [
+      "wled",
+      "control",
+      "effect",
+      "color"
+    ]
+  },
+  "control-intensity": {
+    "name": "Intensity",
+    "tags": [
+      "wled",
+      "control",
+      "intensity"
+    ]
+  },
+  "control-option-1": {
+    "name": "Option 1",
+    "tags": [
+      "wled",
+      "control",
+      "option",
+      "1"
+    ]
+  },
+  "control-option-2": {
+    "name": "Option 2",
+    "tags": [
+      "wled",
+      "control",
+      "option",
+      "2"
+    ]
+  },
+  "control-option-3": {
+    "name": "Option 3",
+    "tags": [
+      "wled",
+      "control",
+      "option",
+      "3"
+    ]
+  },
+  "control-palette": {
+    "name": "Palette",
+    "tags": [
+      "wled",
+      "control",
+      "palette"
+    ]
+  },
+  "control-speed": {
+    "name": "Speed",
+    "tags": [
+      "wled",
+      "control",
+      "speed"
+    ]
+  },
+  "segment-freeze": {
+    "name": "Freeze",
+    "tags": [
+      "wled",
+      "segment",
+      "freeze"
+    ]
+  },
+  "segment-mirror": {
+    "name": "Mirror",
+    "tags": [
+      "wled",
+      "segment",
+      "mirror"
+    ]
+  },
+  "segment-on-off": {
+    "name": "On Off",
+    "tags": [
+      "wled",
+      "segment",
+      "on",
+      "off"
+    ]
+  },
+  "segment-reverse": {
+    "name": "Reverse",
+    "tags": [
+      "wled",
+      "segment",
+      "reverse"
+    ]
+  },
+  "segment-sound-sim": {
+    "name": "Sound Sim",
+    "tags": [
+      "wled",
+      "segment",
+      "sound",
+      "sim"
+    ]
+  },
+  "segment-transition": {
+    "name": "Transition",
+    "tags": [
+      "wled",
+      "segment",
+      "transition"
+    ]
+  },
+  "nightlight-colour-fade": {
+    "name": "Colour Fade",
+    "tags": [
+      "wled",
+      "nightlight",
+      "colour",
+      "fade"
+    ]
+  },
+  "nightlight-fade": {
+    "name": "Fade",
+    "tags": [
+      "wled",
+      "nightlight",
+      "fade"
+    ]
+  },
+  "nightlight-instant": {
+    "name": "Instant",
+    "tags": [
+      "wled",
+      "nightlight",
+      "instant"
+    ]
+  },
+  "nightlight-sunrise": {
+    "name": "Sunrise",
+    "tags": [
+      "wled",
+      "nightlight",
+      "sunrise"
+    ]
+  },
+  "button-analog": {
+    "name": "Analog",
+    "tags": [
+      "wled",
+      "button",
+      "input",
+      "analog"
+    ]
+  },
+  "button-pir-sensor": {
+    "name": "Pir Sensor",
+    "tags": [
+      "wled",
+      "button",
+      "input",
+      "pir",
+      "sensor"
+    ]
+  },
+  "button-push-inverted": {
+    "name": "Push Inverted",
+    "tags": [
+      "wled",
+      "button",
+      "input",
+      "push",
+      "inverted"
+    ]
+  },
+  "button-push": {
+    "name": "Push",
+    "tags": [
+      "wled",
+      "button",
+      "input",
+      "push"
+    ]
+  },
+  "button-switch": {
+    "name": "Switch",
+    "tags": [
+      "wled",
+      "button",
+      "input",
+      "switch"
+    ]
+  },
+  "button-touch": {
+    "name": "Touch",
+    "tags": [
+      "wled",
+      "button",
+      "input",
+      "touch"
+    ]
+  },
+  "concept-button-events": {
+    "name": "Button Events",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "button",
+      "events"
+    ]
+  },
+  "concept-buttons": {
+    "name": "Buttons",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "buttons"
+    ]
+  },
+  "concept-controls": {
+    "name": "Controls",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "controls"
+    ]
+  },
+  "concept-effects": {
+    "name": "Effects",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "effects"
+    ]
+  },
+  "concept-fxdata": {
+    "name": "Fxdata",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "fxdata"
+    ]
+  },
+  "concept-info": {
+    "name": "Info",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "info"
+    ]
+  },
+  "concept-nightlight": {
+    "name": "Nightlight",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "nightlight"
+    ]
+  },
+  "concept-palettes": {
+    "name": "Palettes",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "palettes"
+    ]
+  },
+  "concept-presets": {
+    "name": "Presets",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "presets"
+    ]
+  },
+  "concept-segment": {
+    "name": "Segment",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "segment"
+    ]
+  },
+  "concept-ui": {
+    "name": "Ui",
+    "tags": [
+      "wled",
+      "concept",
+      "category",
+      "ui"
+    ]
+  }
+}

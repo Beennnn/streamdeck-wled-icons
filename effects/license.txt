@@ -1,0 +1,5 @@
+This icon pack is derived from the WLED assets project (openlamp/wled-assets),
+released under CC0 1.0 (public domain). These icons are likewise dedicated to
+the public domain under CC0 1.0 — no attribution required, though a nod to
+WLED (https://kno.wled.ge) is appreciated. WLED is a trademark of its authors;
+this pack is an independent, unofficial fan project.

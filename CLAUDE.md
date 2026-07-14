@@ -18,11 +18,9 @@ and `streamdeck-stage-keys` (the GM/XP keyboardist pack — same pattern) in the
 (CC0), which is where the icon *art* is authored/curated — fix visuals THERE,
 then re-vendor here, never hand-edit `src/`.
 
-**Companion plugin:** [LumiDeck](https://github.com/Beennnn/lumideck)
-(`~/dev/music/lumideck`) — Benoît's Stream Deck plugin that *controls* WLED
-lamps and renders its keys live from the same wled-assets art. These packs are
-the standalone icon artifact; LumiDeck is the live controller. Cross-linked in
-both READMEs.
+**Presentation:** standalone icons for WLED *concepts* (effects, palettes,
+controls) — no controller/plugin association for now (deliberate, 2026-07-14).
+Do not add a LumiDeck cross-link back without Benoît asking.
 
 ## Layout
 

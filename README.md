@@ -1,17 +1,9 @@
 # WLED icons for Elgato Stream Deck
 
-Two **Marketplace-ready icon packs** that bring the complete [WLED](https://kno.wled.ge)
-visual language to your Stream Deck — the animated effects and the colour
-palettes — so a key that triggers *Fireworks* or loads the *Lava* palette
-actually *looks* like it.
-
-> **Companion plugin:** to actually *drive* your WLED lamps from those keys,
-> see **[LumiDeck](https://github.com/Beennnn/lumideck)** — a local-only Stream
-> Deck plugin for WLED (colours, brightness, effects & palettes by name,
-> scenes, nightlight…). LumiDeck renders its live keys in real time; these packs
-> give you the same WLED iconography as plain drop-in icons for any key or
-> action. Both draw on the shared art in
-> [openlamp/wled-assets](https://github.com/openlamp/wled-assets).
+Two **Marketplace-ready icon packs** that put the [WLED](https://kno.wled.ge)
+concepts — its animated effects and its colour palettes — on your Stream Deck as
+key icons, so a key labelled *Fireworks* or *Lava* actually *looks* like the
+thing it names. Plain drop-in icons for any key or action; no plugin required.
 
 | Pack | Icons | Kind | Container |
 |---|---|---|---|
@@ -71,4 +63,3 @@ under **[CC0 1.0](LICENSE)** — public domain, no attribution required. A nod t
 trademark of its authors.
 
 Built with [stream-deck-icons](https://github.com/Beennnn/stream-deck-icons).
-Pairs with the [LumiDeck](https://github.com/Beennnn/lumideck) WLED plugin.

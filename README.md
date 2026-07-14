@@ -5,6 +5,14 @@ visual language to your Stream Deck — the animated effects and the colour
 palettes — so a key that triggers *Fireworks* or loads the *Lava* palette
 actually *looks* like it.
 
+> **Companion plugin:** to actually *drive* your WLED lamps from those keys,
+> see **[LumiDeck](https://github.com/Beennnn/lumideck)** — a local-only Stream
+> Deck plugin for WLED (colours, brightness, effects & palettes by name,
+> scenes, nightlight…). LumiDeck renders its live keys in real time; these packs
+> give you the same WLED iconography as plain drop-in icons for any key or
+> action. Both draw on the shared art in
+> [openlamp/wled-assets](https://github.com/openlamp/wled-assets).
+
 | Pack | Icons | Kind | Container |
 |---|---|---|---|
 | **WLED Effects** | 216 | animated GIF (144×144, looping) | `dist/com.beennnn.wledeffects.streamDeckIconPack` |
@@ -63,3 +71,4 @@ under **[CC0 1.0](LICENSE)** — public domain, no attribution required. A nod t
 trademark of its authors.
 
 Built with [stream-deck-icons](https://github.com/Beennnn/stream-deck-icons).
+Pairs with the [LumiDeck](https://github.com/Beennnn/lumideck) WLED plugin.

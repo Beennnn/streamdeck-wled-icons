@@ -2,7 +2,7 @@
     "Name": "WLED Palettes & Controls",
     "Author": "Beennnn",
     "Version": "1.0.0",
-    "Description": "111 static WLED icons for Stream Deck: all 72 colour palettes plus segment, nightlight, button-type and control glyphs, and 11 category tiles. The static companion to WLED Effects.",
+    "Description": "111 static WLED icons for Stream Deck: all 72 colour palettes plus segment, nightlight, button-type and control glyphs, and 11 category tiles. The static companion to WLED Effects. Unofficial fan-made pack — not affiliated with, or endorsed by, the WLED project; \"WLED\" names compatibility only.",
     "Icon": "icon.svg",
     "URL": "https://github.com/Beennnn/streamdeck-wled-icons",
     "Licence": "license.txt"

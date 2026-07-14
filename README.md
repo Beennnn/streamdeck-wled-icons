@@ -5,6 +5,10 @@ concepts — its animated effects and its colour palettes — on your Stream Dec
 key icons, so a key labelled *Fireworks* or *Lava* actually *looks* like the
 thing it names. Plain drop-in icons for any key or action; no plugin required.
 
+> **Unofficial.** A fan-made pack, **not affiliated with or endorsed by the
+> WLED project**. "WLED" is used only to name what these icons depict/are
+> compatible with. WLED is a trademark of its authors.
+
 | Pack | Icons | Kind | Container |
 |---|---|---|---|
 | **WLED Effects** | 216 | animated GIF (144×144, looping) | `dist/com.beennnn.wledeffects.streamDeckIconPack` |

@@ -47,6 +47,20 @@ sdicons maker-media palettes --out-dir maker-media/palettes \
    the complete WLED effect / palette set as Stream Deck icons"). Auto-publish
    toggle optional. **Submit is your final click.**
 
+## Re-submit after the 2026-07-14 v1 rejection (both packs)
+
+Both packs were rejected the same day: *"ensure there was no cropping of
+information, please ensure all media for Marketplace is 1920×960."* Root cause:
+the gallery generator packed 3 rows of 6 into the 960 px canvas with tiles too
+tall, so each `gallery-N.png` had its **bottom row sliced** (the file was 1920×960,
+but the content overflowed). Fixed in `sdicons/makermedia.py` (tile 250→220,
+y0 250→190 → 3 full rows fit: 190 + 3·220 + 2·24 = 898 ≤ 960). Media regenerated.
+
+To clear it: **Media tab → replace every gallery image** with the freshly
+regenerated `maker-media/<pack>/gallery-*.png` (12 for effects, 7 for palettes),
+re-check the thumbnail, then **Versions → Submit for review** again. Nothing else
+changed (description, previews, package all already accepted).
+
 ## Notes / open decisions
 
 - **fps**: effects run ~8 fps (WLED source cadence) — below Elgato's soft

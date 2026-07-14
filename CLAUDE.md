@@ -22,6 +22,14 @@ then re-vendor here, never hand-edit `src/`.
 controls) — no controller/plugin association for now (deliberate, 2026-07-14).
 Do not add a LumiDeck cross-link back without Benoît asking.
 
+**⚠️ We do NOT speak for WLED (hard rule, 2026-07-14).** These packs are
+**unofficial / fan-made**, not affiliated with or endorsed by the WLED project.
+Every public-facing surface must carry that disclaimer: both `manifest.json`
+Descriptions, the README, and the **Elgato Marketplace listing Description**
+(the auto-filled field must be edited to include it). "WLED" only names
+compatibility/what the icons depict — never imply official status, partnership,
+or that we represent WLED. Same care as LumiDeck's disclaimer.
+
 ## Layout
 
 - `src/effects/*.gif`, `src/palettes/*.png` — **committed** vendored sources

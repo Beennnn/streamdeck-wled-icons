@@ -11,8 +11,8 @@ Two Elgato Stream Deck **icon packs** built from the WLED visual set:
   + buttons + 11 concept tiles).
 
 **Content repo, not a tool.** The pipeline lives in
-[stream-deck-icons](https://github.com/Beennnn/stream-deck-icons) (`sdicons`);
-this repo is source assets + per-pack metadata. Sibling of `stream-deck-icons`
+[streamdeck-toolkit](https://github.com/Beennnn/streamdeck-toolkit) (`sdicons`);
+this repo is source assets + per-pack metadata. Sibling of `streamdeck-toolkit`
 and `streamdeck-stage-keys` (the GM/XP keyboardist pack — same pattern) in the
 `music` group. Source of the icons: [openlamp/wled-assets](https://github.com/openlamp/wled-assets)
 (CC0), which is where the icon *art* is authored/curated — fix visuals THERE,
@@ -63,7 +63,7 @@ or that we represent WLED. Same care as LumiDeck's disclaimer.
 ## Publishing
 
 Same process as any `sdicons` pack — see
-[stream-deck-icons/docs/publishing.md](https://github.com/Beennnn/stream-deck-icons/blob/main/docs/publishing.md):
+[streamdeck-toolkit/docs/publishing.md](https://github.com/Beennnn/streamdeck-toolkit/blob/main/docs/publishing.md):
 `bin/build.sh` → `dist/*.streamDeckIconPack` is submit-ready; `sdicons
 maker-media <pack>` generates the Maker Console upload assets. Effects submit
 as **animated**, palettes as **not-animated**.

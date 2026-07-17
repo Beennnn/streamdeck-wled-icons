@@ -11,10 +11,10 @@ cd "$(git rev-parse --show-toplevel)"
 # Locate sdicons: PATH first (pip install -e), then the sibling clone.
 if command -v sdicons >/dev/null 2>&1; then
   SDICONS=sdicons
-elif [ -x "$HOME/dev/music/stream-deck-icons/bin/sdicons" ]; then
-  SDICONS="$HOME/dev/music/stream-deck-icons/bin/sdicons"
+elif [ -x "$HOME/dev/music/streamdeck-toolkit/bin/sdicons" ]; then
+  SDICONS="$HOME/dev/music/streamdeck-toolkit/bin/sdicons"
 else
-  echo "error: sdicons not found (clone Beennnn/stream-deck-icons as a sibling," \
+  echo "error: sdicons not found (clone Beennnn/streamdeck-toolkit as a sibling," \
        "or pip install -e it)" >&2
   exit 1
 fi

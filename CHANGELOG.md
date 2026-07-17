@@ -16,7 +16,7 @@ Both packs were **rejected** on their first Maker Console submission (2026-07-14
   files *were* 1920×960 — the content overflowed. Retuned the tile size and top
   margin so all three rows fit inside the frame (`190 + 3·220 + 2·24 = 898 ≤ 960`).
   Root cause + fix live in the `sdicons` tool
-  ([Beennnn/stream-deck-icons@5633513](https://github.com/Beennnn/stream-deck-icons/commit/5633513)).
+  ([Beennnn/streamdeck-toolkit@5633513](https://github.com/Beennnn/streamdeck-toolkit/commit/5633513)).
 - **Regenerated every product-page asset** at exact Maker Console dimensions:
   - WLED Effects — thumbnail (1920×960), 5 icon previews (144×144), 12 gallery
     banners (1920×960), and 1 animated gallery video

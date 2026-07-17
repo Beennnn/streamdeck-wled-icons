@@ -3,7 +3,7 @@
 Everything is prepared. The **final submit on
 [maker.elgato.com](https://maker.elgato.com) needs Benoît's Elgato login** (+ the
 Maker Agreement on first use) — that step is yours. Full process detail lives in
-[stream-deck-icons/docs/publishing.md](https://github.com/Beennnn/stream-deck-icons/blob/main/docs/publishing.md);
+[streamdeck-toolkit/docs/publishing.md](https://github.com/Beennnn/streamdeck-toolkit/blob/main/docs/publishing.md);
 this file is the pack-specific cheat sheet.
 
 ## Build the artifacts

@@ -35,12 +35,12 @@ then show up in the icon picker for any key/action.
 ## Build from source
 
 The packs are generated from the vendored `src/` by the
-[`stream-deck-icons`](https://github.com/Beennnn/stream-deck-icons) toolkit
+[`streamdeck-toolkit`](https://github.com/Beennnn/streamdeck-toolkit) toolkit
 (`sdicons`) — this repo holds only source assets + per-pack metadata; the
 rendered `icons/` and `dist/` are gitignored and reproducible.
 
 ```sh
-# needs Pillow + rsvg-convert, and Beennnn/stream-deck-icons cloned as a sibling
+# needs Pillow + rsvg-convert, and Beennnn/streamdeck-toolkit cloned as a sibling
 bin/build.sh          # → both .streamDeckIconPack files in dist/
 ```
 
@@ -66,4 +66,4 @@ under **[CC0 1.0](LICENSE)** — public domain, no attribution required. A nod t
 [WLED](https://kno.wled.ge) is appreciated. Unofficial fan project; WLED is a
 trademark of its authors.
 
-Built with [stream-deck-icons](https://github.com/Beennnn/stream-deck-icons).
+Built with [streamdeck-toolkit](https://github.com/Beennnn/streamdeck-toolkit).
